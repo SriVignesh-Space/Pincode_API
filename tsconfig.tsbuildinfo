@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/controller/pincodecontroller.ts","./src/router/cityrouter.ts","./src/router/pincoderouter.ts","./src/middleware/auth.ts","./src/middleware/logger.ts","./src/util/checkpincode.ts","./src/util/convertdatatojson.ts","./src/util/createcitymap.ts","./src/util/createpincodemap.ts","./src/util/response.ts"],"version":"6.0.2"}
